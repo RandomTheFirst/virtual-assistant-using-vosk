@@ -1,3 +1,6 @@
+#add a model from https://alphacephei.com/vosk/models to the main folder and rename it to "model"
+
+
 say "future" before a command to activate the virtual assistant
 
 commands:
