@@ -1,0 +1,16 @@
+(0, 37)->  soy sauce <-future 
+(0, 37)->  chicken stock <-future 
+(0, 37)->  white pepper <-future 
+(0, 37)->  peanuts <-future 
+(0, 37)->  eight dry chillies <-future 
+(0, 37)->  eight cloves garlic <-future 
+(0, 38)->  celery <-future 
+(0, 38)->  carrot <-future 
+(0, 40)->  cabbage <-future 
+(0, 40)->  chicken thigh <-future 
+(0, 41)->  beansprouts <-future 
+(10, 18)->  add one two three <-future 
+(10, 26)->  one two three <-future 
+(10, 26)->  remove last line <-future 
+(8, 14)->  mall almost like how complex <-future 
+(9, 50)->  drop their stuff <-future 

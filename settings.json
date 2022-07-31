@@ -1,0 +1,35 @@
+{
+"wakeup":{
+"wakeup":["future","fewer","futures","feature","computer","bitter", "theater", "picture", "user"]
+},
+
+"commands":{
+"open":["open"," opine", "opening", "opinion"],
+"search":["search","shirt", "sip"],
+"volume":["volume","volumes","value"]
+},
+
+"words":{
+"baritone": ["marathon", "baritone", "bear a tone", "marytown", "maritime", "berrytown", "levittown", "veritone", "the town", "burrito"],
+"youtube":["youtube","huge you", "you you"],
+"minecraft":["minecraft", " craft", "crap", "mouth", "put you"],
+"math":["math", "mass", "max", "path"],
+"rocketLeague":["rocket league","rocket leap"],
+"calendar":["to do list","calander","counter"],
+"beko":["backup","they go","baker","becker", "bico", "because", "bickle", "back off", "backhoe", "deco", "tacle", "beaker"],
+"electra":["electra","elektra","electron"],
+"sharp":["sharp","sir","shop", "shark"],
+"skype":["skype","sky"],
+"apps":["apps", "app"],
+"mode": ["mode", "node"],
+"facts": ["fact", "facts"]
+},
+
+
+"apps":{
+"youtube":"links//YouTube.url",
+"skype":"links//Skype.lnk",
+"downloader":"links//youtube-dl.lnk"
+},
+"files":["calendar", "shopping", "file"]
+}

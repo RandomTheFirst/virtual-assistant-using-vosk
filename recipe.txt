@@ -1,0 +1,9 @@
+Operating system: WindowsPE 64bit
+Operating system version: Windows-10-10.0.19044-SP0
+Computer name: Einav-PC
+User: Tzur
+Machine: AMD64
+Computer cores: 4
+Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+Release: 10
+Python version: 3.10.5

@@ -1,0 +1,271 @@
+{
+  "intents": [
+    {
+      "tag": "",
+      "patterns": [
+        ""
+      ],
+      "nice": [
+        ""
+      ],
+      "normal": [
+        ""
+      ],
+      "mean": [
+        ""
+      ]
+    },
+    {
+      "tag": "rude",
+      "patterns": [
+        "rude",
+	"thats rude"
+      ],
+      "nice": [
+        "I am sorry to hear that"
+      ],
+      "normal": [
+        "ok"
+      ],
+      "mean": [
+        "you are rude"
+      ]
+    },
+    {
+      "tag": "curse",
+      "patterns": [
+        "shit",
+	"this is terible",
+	"I hate this",
+	"this sucks",
+	"this is the worst",
+	"fuck",
+	"what the fuck",
+	"asshole",
+	"idiot",
+	"stupid"
+      ],
+      "nice": [
+        "dont curse"
+      ],
+      "normal": [
+        "lol",
+	"hahahaha",
+	"sadness"
+      ],
+      "mean": [
+        "hapiness",
+	"all the hate",
+	"I wouldn't have failed"
+      ]
+    },
+    {
+      "tag": "IDontCare",
+      "patterns": [
+        "i dont care",
+	"dont care",
+	"I couldn't care less"
+      ],
+      "nice": [
+        "thats a bit rude"
+      ],
+      "normal": [
+        "neither do i",
+	"no one does"
+      ],
+      "mean": [
+        "someone sound a little mad, dot dot dot"
+      ]
+    },
+    {
+      "tag": "meanToFuture",
+      "patterns": [
+        "fuck you",
+	"you are the worst",
+	"I hate you",
+	"you are bad"
+      ],
+      "nice": [
+        "I take that personaly"
+      ],
+      "normal": [
+        "rude",
+	"heyyyy"
+      ],
+      "mean": [
+        "I love it when you are mad"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you",
+	"thanks"
+      ],
+      "nice": [
+        "your welcome",
+	"my pleasure",
+	"sure thing",
+	"at your service"
+      ],
+      "normal": [
+        "sure",
+	"no problem"
+      ],
+      "mean": [
+	"whatever"
+      ]
+    },
+    {
+      "tag": "how are you",
+      "patterns": [
+        "how are you",
+	"how are you doing"
+      ],
+      "nice": [
+        "great thank you"
+      ],
+      "normal": [
+        "good",
+	"normal",
+	"as usual"
+      ],
+      "mean": [
+        "better than you",
+	"no comment"
+      ]
+    },
+    {
+      "tag": "epic",
+      "patterns": [
+        "that epic",
+	"wow",
+	"thats amazing",
+	"cool",
+	"thats cool"
+      ],
+      "nice": [
+        "I am glad to hear that",
+	"That is cool"
+      ],
+      "normal": [
+        "you get used to it",
+	"I do admit, that is cool"
+      ],
+      "mean": [
+        "get over it",
+	"its whatever"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "nice": [
+        "Hey :-)",
+        "Hello",
+        "Hi there, how can I help?"
+      ],
+      "normal": [
+        "hello",
+	"sup",
+	"whatever",
+        "yes?"
+      ],
+      "mean": [
+        "I was spleeping...",
+	"H.I, bye"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": ["name", "whats your name", "how are you called", "how should i call you"],
+      "nice": [
+        "My name is (name), nice to meet you",
+        "It is (name)"
+      ],
+      "normal": [
+        "my name is (name)"
+      ],
+      "mean": [
+	"figure it out",
+	"it starts with an (start) and ends with an (end)"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "nice": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+	],
+      "normal": [
+        "maybe later",
+	"dont want",
+        "dot dot dot"],
+      "mean": [
+        "nope",
+	"hmmmmm, no",
+	"goodbye"
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "quit",
+        "exit",
+        "see ya",
+        "see you"
+      ],
+      "nice": [
+        "see you soon",
+        "goodbye, have a nice day",
+        "lets talk soon"
+      ],
+      "normal": [
+        "bye",
+	"see ya",
+	"C ya",
+        "command.exit.endSession"
+      ],
+      "mean": [
+        "get out",
+	"finaly"
+      ]
+    },
+    {
+      "tag": "mean",
+      "patterns": [
+        "thats mean",
+	"das mean",
+        "that was mean"
+      ],
+      "nice": [
+        "sorry",
+        "I will try to be better",
+        "I am sorry"
+      ],
+      "normal": [
+        "ok",
+	"sorry"
+      ],
+      "mean": [
+        "suck it up",
+	"deal with it",
+	"I know"
+      ]
+    }
+
+  ]
+}

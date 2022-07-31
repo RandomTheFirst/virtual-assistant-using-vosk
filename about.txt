@@ -1,0 +1,20 @@
+This program was made by tzur
+
+Libraries used are:
+simpleFiles(lets me easly use text files)
+vosk(audio to text)
+pygame(GUI)
+json(get json data)
+datetime(date and time)
+requests(webscraping)
+bs4(webscraping)
+pyttsx3(sound)
+webbrowser(open websites)
+pyaudio(get audio)
+screen_brightness_control(change screen brightness)
+pycaw(change audio)
+paho-mqtt(comunication using mqtt)
+pyinstaller(to conver the .py file to exe)
+pytorch(AI for personality)
+numpy(some calculating)
+nltk(parsing some text)

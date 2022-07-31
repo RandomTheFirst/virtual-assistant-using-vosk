@@ -1,0 +1,22 @@
+wakeup:
+say future to wakeup future.
+
+commands:
+brightness(number 1-10) changes the screen brightness
+volume(number 1-10) changes the master volume
+system volume(number 1-10)changes the system(future) volume
+open(fileName)(add it to the wakeup.json file in this format "app":"app path" and add a , at them end if necesary)
+search(input) searchs the input
+youtube(input)searchs the input on youtube
+(textfile(the ones in the json file)) (input) add input to your textfile
+time tells you the time in hours/min format
+weather tells you the weather(needs internet)
+close (app name)(closes a file(needs exact executable name))
+personality (on/off)(toggles future's personality on/off)
+personality mode (mean/normal/nice)(changes the personality mode)
+name change (newName) changes futures name
+data(opens a file with some data about your pc)
+definition/what's/what is/what are/where is/where are/how to/what can(asks google a quastion and says the answer)
+
+other:
+click on assistant to mute/unmute(if using GUI)

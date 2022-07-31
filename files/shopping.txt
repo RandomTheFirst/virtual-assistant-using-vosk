@@ -1,0 +1,31 @@
+(6, 57)->  ingredients:
+
+(6, 57)->  tortilla:
+(6, 57)->  two cups all purpose flour <-future 
+(6, 57)->  half teaspoon baking powder <-future 
+(6, 58)->  one teaspoon fine sea salt three fourths cup warm water one fourth cup vegetable oil <-future 
+
+(6, 58)->  rice:
+(6, 59)->  one cup medium grain rice one cup water salt taste two teaspoons unsalted butter<-future 
+(7, 0)->  chicken: 
+(7, 1)->  two pounds boneless chicken thigh <-future 
+(7, 1)->  two teaspoons kosher salt one tablespoon onion powder one teaspoon garlic powder <-future 
+(7, 2)->  one tablespoon smoked paprika<-future 
+(7, 2)->  Fajita Veggies:
+(7, 4)->  add one red bell pepper thinly sliced <-future 
+(7, 4)->  one sweet onion thinly sliced two jalapenos thinly sliced <-future 
+(7, 4)->  salt two garlic cloves finely chopped <-future 
+(7, 4)->  aioli angredients: 
+(7, 5)->  one cup mayonnaise one tablespoon smoked paprika two tablespoons of hot sauce two tablespoons lime juice three garlic cloves salt <-future 
+(9, 38)->  chicken drumsticks <-future 
+(9, 38)->  sugar <-future 
+(9, 38)->  water <-future 
+(9, 38)->  bay leaves <-future 
+(9, 39)->  hot sauce <-future 
+(9, 39)->  vegetable oil <-future 
+(9, 39)->  chili oil <-future 
+(9, 39)->  onion <-future 
+(9, 39)->  dark soy sauce <-future 
+(9, 39)->  soy sauce <-future 
+(9, 40)->  vinegar <-future 
+(7, 20)->  one two three <-future 
