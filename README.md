@@ -5,8 +5,8 @@ say "future" before a command to activate the virtual assistant
 
 commands:
 
-brightness(number 1-10) changes the screen brightness
-volume(number 1-10) changes the master volume
+brightness(number 1-10) changes the screen brightness <br />
+volume(number 1-10) changes the master volume <br />
 system volume(number 1-10)changes the system(future) volume
 open(fileName)(add it to the wakeup.json file in this format "app":"app path" and add a , at them end if necesary)
 search(input) searchs the input
